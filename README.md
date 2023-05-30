@@ -1,4 +1,4 @@
-# GitHub Actions Fundamentals (Modified for Push)
+# GitHub Actions Fundamentals (Modified for Push) (Modified and skip CI)
 
 Repo for the `GitHub Actions Fundamentals` training.
 
